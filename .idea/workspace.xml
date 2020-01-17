@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eca27fb2-05bf-4134-9cb0-bbf0019fd39b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1VUVGASWsa3CZlH9KuiqmUcX1Mv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\reduxComp\components\user" />
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\reduxComp\components\page" />
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\reduxComp\components\basket" />
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\reduxComp2" />
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\reduxComp\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src" />
+      <recent name="C:\Users\User\Desktop\progs\React\catalog1\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca27fb2-05bf-4134-9cb0-bbf0019fd39b" name="Default Changelist" comment="" />
+      <created>1577307562221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577307562221</updated>
+      <workItem from="1577307564628" duration="3852000" />
+      <workItem from="1577411112502" duration="1684000" />
+      <workItem from="1577623263734" duration="9737000" />
+      <workItem from="1577717036343" duration="482000" />
+      <workItem from="1577721483509" duration="1320000" />
+      <workItem from="1577964486324" duration="6952000" />
+      <workItem from="1578149128144" duration="3272000" />
+      <workItem from="1578270146701" duration="529000" />
+      <workItem from="1578341977745" duration="4793000" />
+      <workItem from="1578412397147" duration="8342000" />
+      <workItem from="1578496906525" duration="1281000" />
+      <workItem from="1578498471915" duration="256000" />
+      <workItem from="1578498762998" duration="1020000" />
+      <workItem from="1578583301116" duration="82000" />
+      <workItem from="1578583414482" duration="15422000" />
+      <workItem from="1578974011732" duration="5614000" />
+      <workItem from="1579110817884" duration="2560000" />
+      <workItem from="1579140474774" duration="2343000" />
+      <workItem from="1579254113498" duration="535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
